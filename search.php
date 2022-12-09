@@ -44,7 +44,7 @@ $s = $_POST['Search'];
 	<div class="agileits_header">
 		<div class="container">
 			<div class="w3l_offers">
-				<p>DAPATKAN PENAWARAN MENARIK KHUSUS HARI INI, BELANJA SEKARANG!</p>
+				<p>DAPATKAN PROMO MENARIK KHUSUS HARI INI, BELANJA SEKARANG!</p>
 			</div>
 			<div class="agile-login">
 				<ul>
@@ -86,7 +86,7 @@ $s = $_POST['Search'];
 		<div class="container">
 		<div class="w3ls_logo_products_left1">
 				<ul class="phone_email">
-					<li><i class="fa fa-phone" aria-hidden="true"></i>Hubungi Kami : (+6281) 222 333</li>
+				<li><i class="fa fa-phone" aria-hidden="true"></i>Contact Me : (+6282) 1794 27463</li>
 				</ul>
 			</div>
 			<div class="w3ls_logo_products_left">
@@ -94,7 +94,7 @@ $s = $_POST['Search'];
 			</div>
 		<div class="w3l_search">
 			<form action="search.php" method="post">
-				<input type="search" name="Search" placeholder="Cari produk...">
+				<input type="search" name="Search" placeholder="Search Product...">
 				<button type="submit" class="btn btn-default search" aria-label="Left Align">
 					<i class="fa fa-search" aria-hidden="true"> </i>
 				</button>
@@ -245,12 +245,12 @@ $s = $_POST['Search'];
 		<div class="container">
 			<div class="w3_footer_grids">
 				<div class="col-md-4 w3_footer_grid">
-					<h3>Hubungi Kami</h3>
+					<h3>Contact Me </h3>
 					
 					<ul class="address">
-						<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Richard's Lab, DKI Jakarta.</li>
-						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:info@email">info@email</a></li>
-						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+62 8113 2322</li>
+						<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i><a href="https://dansecret.github.io/">Hamdandih</a>, YOGYAKARTA</li>
+						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=hamdandih01@gmail.com">hamdandih01@gmail.com</a></li>
+						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+6282179427463</li>
 					</ul>
 				</div>
 				<div class="col-md-3 w3_footer_grid">
@@ -268,7 +268,7 @@ $s = $_POST['Search'];
 		<div class="footer-copy">
 			
 			<div class="container">
-				<p>© 2020 Richard's Lab. All rights reserved</p>
+				<p>© 2022 Dansecret. All rights reserved</p>
 			</div>
 		</div>
 		
@@ -277,9 +277,7 @@ $s = $_POST['Search'];
 			<div class="container">
 				<div class="w3layouts-foot">
 					<ul>
-						<li><a href="#" class="w3_agile_instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.instagram.com/hamdandih/" class="w3_agile_instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
 					</ul>
 				</div>
 				<div class="payment-w3ls">	

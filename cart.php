@@ -119,7 +119,7 @@ if(isset($_POST["update"])){
 		<div class="container">
 		<div class="w3ls_logo_products_left1">
 				<ul class="phone_email">
-					<li><i class="fa fa-phone" aria-hidden="true"></i>Hubungi Kami : (+6281) 222 333</li>
+				<li><i class="fa fa-phone" aria-hidden="true"></i>Contact Me : (+6282) 1794 27463</li>
 				</ul>
 			</div>
 			<div class="w3ls_logo_products_left">
@@ -332,7 +332,7 @@ if(isset($_POST["update"])){
 		<div class="footer-copy">
 			
 			<div class="container">
-				<p>© 2020 Richard's Lab. All rights reserved</p>
+				<p>© 2022 Dansecret. All rights reserved</p>
 			</div>
 		</div>
 		
@@ -341,9 +341,7 @@ if(isset($_POST["update"])){
 			<div class="container">
 				<div class="w3layouts-foot">
 					<ul>
-						<li><a href="#" class="w3_agile_instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-						<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+						<li><a href="https://www.instagram.com/hamdandih/" class="w3_agile_instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
 					</ul>
 				</div>
 				<div class="payment-w3ls">	
