@@ -211,10 +211,8 @@ if(isset($_POST["update"])){
 							<th>Produk</th>
 							<th>Nama Produk</th>
 							<th>Jumlah</th>
-							
-						
 							<th>Harga Satuan</th>
-							<th>Hapus</th>
+							<th>Edit</th>
 						</tr>
 					</thead>
 					

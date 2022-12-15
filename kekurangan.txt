@@ -1,0 +1,11 @@
+admin =====>
+CRUD = Kategori
+CRUD = Produk
+CRUD = Kelola Pelanggan
+CRUD = Kelola Staff
+export table to pdf
+
+user ======>
+Captcha =+ login, pembayaran, konfirmasi pembayaran
+
+konfirmasi pembayaran =+ upload file bukti transfer

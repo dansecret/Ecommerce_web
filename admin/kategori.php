@@ -131,7 +131,6 @@
 						document.write(thisDay + ', ' + day + ' ' + months[month] + ' ' + year);		
 						//-->
 						</script></b></div></h3>
-
 						</li>
                         </ul>
                     </div>
@@ -207,7 +206,7 @@
         <!-- footer area start-->
         <footer>
             <div class="footer-area">
-                <p>By Richard's Lab</p>
+                <p>Sansecret</p>
             </div>
         </footer>
         <!-- footer area end-->
