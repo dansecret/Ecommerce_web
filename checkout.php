@@ -32,11 +32,11 @@ if(isset($_POST["checkout"])){
 <!DOCTYPE html>
 <html>
 <head>
-<title>Tokopekita - Checkout</title>
+<title>Tokokita - Checkout</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Tokopekita, Richard's Lab" />
+<meta name="keywords" content="Tokokita, Dansecret" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
@@ -115,7 +115,7 @@ if(isset($_POST["checkout"])){
 				</ul>
 			</div>
 			<div class="w3ls_logo_products_left">
-				<h1><a href="index.php">Tokopekita</a></h1>
+				<h1><a href="index.php">Tokokita</a></h1>
 			</div>
 		<div class="w3l_search">
 			<form action="search.php" method="post">
@@ -194,7 +194,7 @@ if(isset($_POST["checkout"])){
 <!-- checkout -->
 	<div class="checkout">
 		<div class="container">
-			<h1>Terima kasih, <?=$_SESSION['name']?> telah membeli <?php echo $itungtrans3 ?> barang di Tokopekita</span></h1>
+			<h1>Terima kasih, <?=$_SESSION['name']?> telah membeli <?php echo $itungtrans3 ?> barang di Tokokita</span></h1>
 			<div class="checkout-right">
 				<table class="timetable_sub">
 					<thead>
@@ -340,12 +340,12 @@ if(isset($_POST["checkout"])){
 		<div class="container">
 			<div class="w3_footer_grids">
 				<div class="col-md-4 w3_footer_grid">
-					<h3>Hubungi Kami</h3>
+					<h3>Contact Me </h3>
 					
 					<ul class="address">
-						<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>Richard's Lab, DKI Jakarta.</li>
-						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:info@email">info@email</a></li>
-						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+62 8113 2322</li>
+						<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i><a href="https://dansecret.github.io/">Hamdandih</a>, YOGYAKARTA</li>
+						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=hamdandih01@gmail.com">hamdandih01@gmail.com</a></li>
+						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+6282179427463</li>
 					</ul>
 				</div>
 				<div class="col-md-3 w3_footer_grid">
@@ -367,19 +367,6 @@ if(isset($_POST["checkout"])){
 			</div>
 		</div>
 	</div>	
-	<div class="footer-botm">
-			<div class="container">
-				<div class="w3layouts-foot">
-					<ul>
-						<li><a href="https://www.instagram.com/hamdandih/" class="w3_agile_instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-					</ul>
-				</div>
-				<div class="payment-w3ls">	
-					<img src="images/card.png" alt=" " class="img-responsive">
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
 <!-- //footer -->	
 <!-- Bootstrap Core JavaScript -->
 <script src="js/bootstrap.min.js"></script>

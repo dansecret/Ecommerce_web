@@ -280,8 +280,7 @@ include 'dbconnect.php';
 				<p>© 2022 Dansecret. All rights reserved</p>
 			</div>
 		</div>
-		
-	</div>	
+	</div>		
 	<div class="footer-botm">
 			<div class="container">
 				<div class="w3layouts-foot">

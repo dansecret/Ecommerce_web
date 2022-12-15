@@ -7,11 +7,11 @@ $idk = $_GET['idkategori'];
 <!DOCTYPE html>
 <html>
 <head>
-<title>Tokopekita - Kategori</title>
+<title>Tokokita - Kategori</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Tokopekita, Richard's Lab" />
+<meta name="keywords" content="Tokokita, Dansecret" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
@@ -86,11 +86,11 @@ $idk = $_GET['idkategori'];
 		<div class="container">
 		<div class="w3ls_logo_products_left1">
 				<ul class="phone_email">
-					<li><i class="fa fa-phone" aria-hidden="true"></i>Hub : (+6281) 222 333</li>
+					<li><i class="fa fa-phone" aria-hidden="true"></i>Hub : (+6282) 1794 2746 3</li>
 				</ul>
 			</div>
 			<div class="w3ls_logo_products_left">
-				<h1><a href="index.php">Tokopekita</a></h1>
+				<h1><a href="index.php">Tokokita</a></h1>
 			</div>
 		<div class="w3l_search">
 			<form action="search.php" method="post">
@@ -134,7 +134,6 @@ $idk = $_GET['idkategori'];
 														<?php 
 														$kat=mysqli_query($conn,"SELECT * from kategori order by idkategori ASC");
 														while($p=mysqli_fetch_array($kat)){
-
 															?>
 														<li><a href="kategori.php?idkategori=<?php echo $p['idkategori'] ?>"><?php echo $p['namakategori'] ?></a></li>
 																				
@@ -271,7 +270,6 @@ $idk = $_GET['idkategori'];
 				<p>© 2022 Dansecret. All rights reserved</p>
 			</div>
 		</div>
-		
 	</div>	
 	<div class="footer-botm">
 			<div class="container">

@@ -35,11 +35,11 @@ if(isset($_POST['adduser']))
 <!DOCTYPE html>
 <html>
 <head>
-<title>Tokopekita - Daftar</title>
+<title>Tokokita - Daftar</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Tokopekita, Richard's Lab" />
+<meta name="keywords" content="Tokokita, Dansecret" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
@@ -100,7 +100,7 @@ if(isset($_POST['adduser']))
 				</ul>
 			</div>
 			<div class="w3ls_logo_products_left">
-				<h1><a href="index.php">Tokopekita</a></h1>
+				<h1><a href="index.php">Tokokita</a></h1>
 			</div>
 		<div class="w3l_search">
 			<form action="#" method="post">
@@ -229,7 +229,6 @@ if(isset($_POST['adduser']))
 				<p>© 2022 Dansecret. All rights reserved</p>
 			</div>
 		</div>
-		
 	</div>	
 	<div class="footer-botm">
 			<div class="container">
