@@ -65,7 +65,7 @@
       type="image/png" 
       href="../favicon.png">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Kelola Produk - Tokopekita</title>
+    <title>Kelola Produk - Tokokita</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/png" href="assets/images/icon/favicon.ico">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -156,7 +156,7 @@
                         <ul class="notification-area pull-right">
                             <li><h3><div class="date">
 								<script type='text/javascript'>
-						<!--
+						//<!--
 						var months = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
 						var myDays = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
 						var date = new Date();
@@ -246,7 +246,7 @@
         <!-- footer area start-->
         <footer>
             <div class="footer-area">
-                <p>By Richard's Lab</p>
+                <p>By Dansecret</p>
             </div>
         </footer>
         <!-- footer area end-->
@@ -272,7 +272,7 @@
 									<select name="idkategori" class="form-control">
 									<option selected>Pilih Kategori</option>
 									<?php
-									$det=mysqli_query($conn,"select * from kategori order by namakategori ASC")or die(mysqli_error());
+									$det=mysqli_query($conn,"SELECT * FROM kategori ORDER BY namakategori ASC")or die(mysqli_error());
 									while($d=mysqli_fetch_array($det)){
 									?>
 										<option value="<?php echo $d['idkategori'] ?>"><?php echo $d['namakategori'] ?></option>

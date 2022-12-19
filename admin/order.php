@@ -54,7 +54,7 @@ if(isset($_POST['selesai']))
       type="image/png" 
       href="../favicon.png">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Tokopekita - Pesanan <?php echo $checkdb['namalengkap']; ?></title>
+    <title>Tokokita - Pesanan <?php echo $checkdb['namalengkap']; ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/png" href="assets/images/icon/favicon.ico">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -148,7 +148,7 @@ if(isset($_POST['selesai']))
                         <ul class="notification-area pull-right">
                             <li><h3><div class="date">
 								<script type='text/javascript'>
-						<!--
+						//<!--
 						var months = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
 						var myDays = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
 						var date = new Date();
@@ -303,7 +303,7 @@ if(isset($_POST['selesai']))
         <!-- footer area start-->
         <footer>
             <div class="footer-area">
-                <p>By Richard's Lab</p>
+                <p>By Dansecret</p>
             </div>
         </footer>
         <!-- footer area end-->

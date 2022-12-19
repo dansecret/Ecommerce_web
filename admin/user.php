@@ -32,7 +32,7 @@
       type="image/png" 
       href="../favicon.png">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Kelola Staff - Tokopekita</title>
+    <title>Kelola Staff - Tokokita</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/png" href="assets/images/icon/favicon.ico">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -123,7 +123,7 @@
                         <ul class="notification-area pull-right">
                             <li><h3><div class="date">
 								<script type='text/javascript'>
-						<!--
+						//<!--
 						var months = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
 						var myDays = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
 						var date = new Date();
@@ -146,7 +146,6 @@
             
             <!-- page title area end -->
             <div class="main-content-inner">
-               
                 <!-- market value area start -->
                 <div class="row mt-5 mb-5">
                     <div class="col-12">
@@ -156,13 +155,14 @@
 									<h2>Daftar Staff</h2>
 									</div>
                                     <div class="data-tables datatable-dark">
-										 <table id="dataTable3" class="display" style="width:100%"><thead class="thead-dark">
+										<table id="dataTable3" class="display" style="width:100%"><thead class="thead-dark">
 											<tr>
 												<th>No.</th>
 												<th>Nama</th>
 												<th>Email</th>
 												<th>Telepon</th>
 												<th>Alamat</th>
+                                                <th>Edit</th>
 											</tr></thead><tbody>
 											<?php 
 											$brgs=mysqli_query($conn,"SELECT * from login where role='Admin' order by userid ASC");
