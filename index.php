@@ -3,6 +3,7 @@ session_start();
 include 'dbconnect.php';
 
 ?>
+<h1></h1>
 
 <!DOCTYPE html>
 <html>
